@@ -1,0 +1,641 @@
+{
+  "main": {
+    "id": "8eb4a31172d9872e",
+    "type": "split",
+    "children": [
+      {
+        "id": "38f8866a188524f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bacb8d9e6d976dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Design Principles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Principles"
+            }
+          },
+          {
+            "id": "73779fa5b6e505d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/CI-CD Automation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CI-CD Automation"
+            }
+          },
+          {
+            "id": "1ae2bc5e706ff39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Caching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caching"
+            }
+          },
+          {
+            "id": "e96d52271fb20963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Architectural Styles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architectural Styles"
+            }
+          },
+          {
+            "id": "0785e4fd7622569b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/System Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Integration"
+            }
+          },
+          {
+            "id": "223dd63f6df89d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Component-Level System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Component-Level System Design"
+            }
+          },
+          {
+            "id": "a03735c62c468c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Relational & NoSQL Databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relational & NoSQL Databases"
+            }
+          },
+          {
+            "id": "89c826db749f6636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Cloud Platforms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Platforms"
+            }
+          },
+          {
+            "id": "d8a174ba99004276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Horizontal & Vertical Scaling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Horizontal & Vertical Scaling"
+            }
+          },
+          {
+            "id": "936033d933699629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Resilience Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resilience Design"
+            }
+          },
+          {
+            "id": "225eeef1aefcae86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Load Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Load Management"
+            }
+          },
+          {
+            "id": "f02a894303e391b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Access Control & Authorization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Access Control & Authorization"
+            }
+          },
+          {
+            "id": "7a2b3e97dd459b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Containerization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Containerization"
+            }
+          },
+          {
+            "id": "1964a0fa856983f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Configuration & Infrastructure Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuration & Infrastructure Management"
+            }
+          },
+          {
+            "id": "28e2f187081c65f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Technical Debt Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technical Debt Management"
+            }
+          },
+          {
+            "id": "8c8c66535a12b5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Monitoring & Performance Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monitoring & Performance Management"
+            }
+          },
+          {
+            "id": "ccdf72e7edbebf78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/UML Diagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UML Diagrams"
+            }
+          },
+          {
+            "id": "cd5dbb29f0b96bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Data Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Encryption"
+            }
+          },
+          {
+            "id": "66fac001b08bf134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Infrastructure as Code (IaC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infrastructure as Code (IaC)"
+            }
+          },
+          {
+            "id": "71671033a7959886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Logging & Tracing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logging & Tracing"
+            }
+          },
+          {
+            "id": "18309706bec35d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Cost Estimation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cost Estimation"
+            }
+          },
+          {
+            "id": "0cfc26d02167b2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Cloud Architecture Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Architecture Patterns"
+            }
+          },
+          {
+            "id": "1925356eaf9221a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Big Data & Data Processing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big Data & Data Processing"
+            }
+          },
+          {
+            "id": "dc9b25ff6306b546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/ETL (Extract, Transform, Load).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ETL (Extract, Transform, Load)"
+            }
+          },
+          {
+            "id": "1c783228afbc8fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Application Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application Security"
+            }
+          },
+          {
+            "id": "4ff8e2bc36669608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/C4 Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C4 Model"
+            }
+          },
+          {
+            "id": "968237847f2a481e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Architecture Decision Records (ADR).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture Decision Records (ADR)"
+            }
+          },
+          {
+            "id": "0cf158baff114680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Migration Strategies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Migration Strategies"
+            }
+          },
+          {
+            "id": "6337dbabb54c6f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Legacy System Modernization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Legacy System Modernization"
+            }
+          },
+          {
+            "id": "0f91b5c6dd56678e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Incident Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Incident Management"
+            }
+          },
+          {
+            "id": "c9b86946513d20ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Solution/Enterprise Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enterprise Architecture"
+            }
+          }
+        ],
+        "currentTab": 30
+      },
+      {
+        "id": "6e2005c8dd700bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e6997e3b557d17",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c1edb1b18078214",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f546a689858e6aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84a237e01fe1b58a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb6f565ac6cbf630",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2887edb60d8a19e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bce0e318f78a3bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f8a73e38672190e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5c836f59e1f88a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Architecture/Solution/Enterprise Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Enterprise Architecture"
+            }
+          },
+          {
+            "id": "e4c57ecf738f9f7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Architecture/Solution/Enterprise Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Enterprise Architecture"
+            }
+          },
+          {
+            "id": "6818e3fd406f4564",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e7bc75d1ea87cce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Architecture/Solution/Enterprise Architecture.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Enterprise Architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84a237e01fe1b58a",
+  "lastOpenFiles": [
+    "Architecture/Solution/Incident Management.md",
+    "Architecture/Solution/Enterprise Architecture.md",
+    "Architecture/Solution/Legacy System Modernization.md",
+    "Architecture/Solution/Migration Strategies.md",
+    "Architecture/Solution/Architecture Decision Records (ADR).md",
+    "Architecture/Solution/C4 Model.md",
+    "Architecture/Solution/Application Security.md",
+    "Architecture/Solution/ETL (Extract, Transform, Load).md",
+    "Architecture/Solution/Big Data & Data Processing.md",
+    "Architecture/Solution/Cloud Architecture Patterns.md",
+    "Architecture/Solution/Cost Estimation.md",
+    "Architecture/Solution/Logging & Tracing.md",
+    "Architecture/Solution/Infrastructure as Code (IaC).md",
+    "Architecture/Solution/Data Encryption.md",
+    "Architecture/Solution/UML Diagrams.md",
+    "Architecture/Solution/Monitoring & Performance Management.md",
+    "Architecture/Solution/Technical Debt Management.md",
+    "Architecture/Solution/Configuration & Infrastructure Management.md",
+    "Architecture/Solution/Containerization.md",
+    "Architecture/Solution/Access Control & Authorization.md",
+    "Architecture/Solution/Load Management.md",
+    "Architecture/Solution/Resilience Design.md",
+    "Architecture/Solution/Horizontal & Vertical Scaling.md",
+    "Architecture/Solution/Cloud Platforms.md",
+    "Architecture/Solution/Relational & NoSQL Databases.md",
+    "Architecture/Solution/Component-Level System Design.md",
+    "General/Basics/Untitled",
+    "Mobile/Maui-Xamarin",
+    "Desktop/Avalonia",
+    "Desktop/Wpf",
+    "FE/Blazor",
+    "FE/Razor",
+    "FE/Next",
+    "FE/Vue",
+    "FE/Node",
+    "FE/Angular"
+  ]
+}
